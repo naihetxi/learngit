@@ -1,4 +1,2 @@
-Git is a distributed  verGIt is a version control system.
-Git is free softare
-Eyryaab
-dhfjsfksh
+Git is a distributed  version control system.
+Git is free softare distributed under the GPL.
